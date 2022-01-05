@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shashwat Vangani aka @shaavan
 - 👀 I’m interested in Reading, Philosophy and Creating Fun Projects
 - 🌱 I’m currently learning about Blockchain, Bitcoin, Machine Learning and Artificial Intelligence
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/itsshavan/; Gmail: www.svangani239@gmail.com
+- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/itsshavan/; Gmail: www.shaavan.github@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ...  --->
 
 <!---
