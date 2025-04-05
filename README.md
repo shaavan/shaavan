@@ -10,7 +10,8 @@
 `--' `--' `------'`------'  `------'      `-----'          `--'   `--' `--' `------'`--' '--' `------' 
 ```
 
-PGP:
+<details>
+<summary><strong>PGP Public Key</strong></summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -69,3 +70,5 @@ ukDx2jnl
 =MJAv
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</details>
